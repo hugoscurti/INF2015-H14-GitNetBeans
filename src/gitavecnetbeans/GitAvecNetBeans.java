@@ -10,7 +10,7 @@ public class GitAvecNetBeans {
     }
     
     public static void afficherMessage() {
-        System.out.println("Ceci est un message");
+        System.out.println("Bonjour");
     }
   
 }
